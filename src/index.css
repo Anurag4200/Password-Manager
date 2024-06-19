@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table-row {
+    height: 50px; /* Increase the height of the row */
+    font-size: 18px; /* Increase the font size */
+    
+  
+  }
